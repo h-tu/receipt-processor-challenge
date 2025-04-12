@@ -18,6 +18,9 @@
   - ```docker load -i receipt-processor.tar```
   - Same as above
 
+Thanks :)
+
+
 # Original Readme
 
 Build a webservice that fulfils the documented API. The API is described below. A formal definition is provided 
